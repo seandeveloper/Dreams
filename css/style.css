@@ -1,0 +1,39 @@
+body {
+  font-family: 'Pacifico', cursive;
+  line-height: 1.5;
+  font-size: 15px;
+  color: white;
+  background: url(../images/My-Galaxy-S5-Wallpaper-Dream-Big.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment:fixed;
+}
+
+
+.welcome-text-container {
+  width: 200px;
+  height: 690px;
+  margin: 300px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 3px;
+  background: rgba(255, 228, 189, 0.2);
+  float: left;
+}
+
+.welcome-video-container {
+  margin-top: 160px;
+  float: right;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+  margin-top: -15px;
+  margin-left: 7px;
+}
